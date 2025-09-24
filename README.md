@@ -1,55 +1,53 @@
-<h1 align="center">Hi 👋, I'm Achinta Kumar Dutta</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
+# 👋 Hi, I'm Achinta Kumar Dutta
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Achinta1997&label=Profile%20views&color=0e75b6&style=flat" alt="Achinta1997" />
-</p>
+🚀 **DevOps Engineer | Cloud & Automation Enthusiast | Continuous Delivery Advocate**
 
----
-
-🧑‍💻 **About Me**
-
-I’m **Achinta Kumar Dutta**, a passionate **DevOps Engineer** with hands-on experience in building, automating, and managing cloud-native infrastructure. I thrive in environments that encourage **automation**, **collaboration**, and **continuous improvement**.
-
-- ☁️ Working on scalable infrastructure using **Azure Cloud** and **Terraform**
-- 🔁 Building secure and efficient **CI/CD pipelines** using **GitHub Actions** and **Azure DevOps**
-- 🐳 Deploying microservices with **Docker** and **Kubernetes**
-- 🐧 Automating tasks on **Linux** using **Bash scripting**
-- 📊 Monitoring infrastructure and apps for performance and reliability
-- 🛠️ A firm believer in **"Infrastructure as Code"** and **DevOps best practices**
+Welcome to my GitHub profile!  
+I am a passionate **DevOps Engineer with 3+ years of experience** in building, automating, and scaling modern infrastructure and CI/CD systems. I love solving real-world problems by bridging the gap between development and operations through automation, containerization, and cloud-native technologies.
 
 ---
 
-🛠️ **Tech Stack**
+## 🛠️ Skills & Technologies
 
-| Category | Tools & Technologies |
-|----------|----------------------|
-| ☁️ Cloud | Azure |
-| ⚙️ IaC   | Terraform |
-| 🔄 CI/CD | GitHub Actions, Azure DevOps |
-| 🐳 Containers | Docker, Kubernetes |
-| 🐧 OS & Scripting | Linux, Bash |
-| 📁 Version Control | Git, GitHub |
-| 🧠 Others | SQL, Monitoring tools |
+Here are the tools and platforms I work with:
 
----
-
-📫 **Let's Connect**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achinta-kumar-dutta/)
+- ☁️ **Cloud Platforms:** Azure Cloud  
+- 🏗️ **Infrastructure as Code:** Terraform  
+- 🔄 **CI/CD:** Azure DevOps, GitHub Actions  
+- 🐧 **Operating Systems:** Linux  
+- 🐳 **Containerization:** Docker  
+- ☸️ **Orchestration:** Kubernetes  
+- 📦 **Package Management:** Helm  
+- 📊 **Monitoring & Observability:** Grafana  
 
 ---
 
-📈 **GitHub Stats**
+## 📈 What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achinta1997&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achinta1997&theme=github-dark" alt="GitHub Streak" />
-</p>
+- 🚀 Automate infrastructure provisioning and deployment workflows.  
+- 🏗️ Build scalable and secure cloud environments.  
+- 🔄 Design and manage CI/CD pipelines to enable continuous integration and delivery.  
+- 🐳 Containerize applications and manage clusters with Kubernetes and Helm.  
+- 📊 Implement observability and monitoring solutions with Grafana.  
 
 ---
 
-🔁 *“Automate it till you make it.”*
+## 📂 My Focus Areas
+
+- 💡 Cloud-Native Architecture  
+- 🔐 Infrastructure Security & Best Practices  
+- ⚙️ DevOps Culture & Automation  
+- 📦 Microservices Deployment  
+- 📊 Observability & Monitoring
+
+---
+
+## 🤝 Let's Connect
+
+🌐 [LinkedIn](https://www.linkedin.com/)  
+📧 **Email:** achinta@example.com (replace with your real email)
+
+---
+
+⭐️ *“Automation is not just a tool — it’s a mindset.”*  
+Thanks for visiting my profile! Feel free to explore my repositories 🚀
